@@ -10,19 +10,22 @@ Please also note that Solara can be detected any time and needs time to fix and 
 # 👀Features
 
 Keyless
+
 Solara for windows is 100% keyless and always will be. We don’t believe in spamming ads throughout your gaming experience.
 
 Cool UI
+
 If you are one who believes in good looking tools then Solara is for you. It has very sleek design that can be your eye candy.
 
 Instant Updates
+
 Ever thought what will happpen if Roblox detect Solara? Well, we are always here to provide you instant updates and upgrades for free
 
 # 🧊Download
 [Click Here](https://github.com/imnyxxx/Solara-Executor/releases/tag/Release)
 
-Open Solara
+- Open Solara
 
-Find Script for your game
+- Find Script for your game
 
-Enjoy!
+- Enjoy!
